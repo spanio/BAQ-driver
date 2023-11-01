@@ -1,2 +1,2 @@
 # BAQ-driver
- Python library for the BinaryAcquisitionUnit
+ This is a Python library for the Binary Acquisition Unit, found here:https://github.com/spanio/BinaryAcquisitionUnit
